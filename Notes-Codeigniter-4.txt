@@ -1,0 +1,14 @@
+Note download sa XAMPP
+
+import ang sql na database
+
+database name: db-recipe
+
+
+nasa apps/views lahat ng html pages
+
+
+CHECK MO TO
+ss
+https://prnt.sc/1x5y30c
+https://prnt.sc/1x5y70b
